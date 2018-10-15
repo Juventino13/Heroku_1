@@ -1,6 +1,5 @@
 class SaludoController < ApplicationController
-    
-      def saludos
-    end
+    def saludos
   end
+end
   

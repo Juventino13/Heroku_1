@@ -1,9 +1,5 @@
 {
   "name": "demo1",
   "private": true,
-  "dependencies": {},
-  "server.listen(process.env.PORT || port)"
-
-
-
+  "dependencies": {}
 }
